@@ -1,0 +1,14 @@
+{
+    "id": "julia",
+    "version": "1.0.0",
+    "meta": {
+        "label": "Julia",
+        "description": "Adds Julia language support with Julia recipes and notebooks",
+        "author": "Dataiku (Celian Heydont)",
+        "icon": "icon-dku-julia",
+        "tags": [],
+        "url": "https://www.dataiku.com/community/plugins/info/julia.html",
+        "licenseInfo": "Apache Software License"
+    },
+    "featureFlags": ['julia']
+}
