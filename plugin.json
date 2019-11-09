@@ -10,5 +10,5 @@
         "url": "https://www.dataiku.com/community/plugins/info/julia.html",
         "licenseInfo": "Apache Software License"
     },
-    "featureFlags": ['julia']
+    "featureFlags": ["julia"]
 }
