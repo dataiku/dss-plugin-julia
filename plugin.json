@@ -4,7 +4,7 @@
     "meta": {
         "label": "Julia",
         "description": "Adds Julia language support with Julia recipes and notebooks",
-        "author": "Dataiku (Celian Heydont)",
+        "author": "Dataiku (Celian Haydont)",
         "icon": "icon-dku-julia",
         "tags": [],
         "url": "https://www.dataiku.com/community/plugins/info/julia.html",
