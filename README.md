@@ -1,11 +1,17 @@
-# dss-plugin-julia
-DSS plugin to add support for Julia language
+## Summary
+DSS plugin to add support for [Julia language](https://julialang.org/).
+
+## Installation
+
+After installing the plugin, an administrator has to run the Julia installation script `./$DSS_HOME/bin/dssadmin install-julia-integration`. The script will take a few minutes to create the code environment, download the required libraries, precompile them and create a Jupyter kernel.
 
 ## Usage
 
-After installing the plugin, Julia language recipes and notebooks will be available.
+After the installation, it will be possible to create and execute Julia recipes the same way you would use any other code recipes. Jupyter notebooks will also be available in Julia.
+
+Inside recipes and notebooks, use the package [Dataiku.jl](https://github.com/dataiku/Dataiku.jl) to interact with DSS. This package is a wrapper around the [DSS Public API](https://doc.dataiku.com/dss/api/7.0/rest/) and provides functions to read and write datasets and folders in DSS easily. See the documentation on the package [README.md](https://github.com/dataiku/Dataiku.jl/blob/master/README.md)
 
 ## Requirements
 
-This plugin requires DSS >= 6.0
-The Julia language must be installed on the machine
+This plugin requires DSS >= 8.0.
+The Julia language must be installed on the machine.
