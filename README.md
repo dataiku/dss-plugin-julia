@@ -6,7 +6,7 @@ DSS plugin to add support for [Julia language](https://julialang.org/).
 
 ## Installation
 
-After installing the plugin, an administrator has to run the Julia installation script `./$DSS_HOME/bin/dssadmin install-julia-integration`. The script will take a few minutes to create the code environment, download the required libraries, precompile them and create a Jupyter kernel.
+After installing the plugin, an administrator has to run the Julia installation script `$DSS_HOME/bin/dssadmin install-julia-integration`. The script will take a few minutes to create the code environment, download the required libraries, precompile them and create a Jupyter kernel.
 
 
 ## Usage
