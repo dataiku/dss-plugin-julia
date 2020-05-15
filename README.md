@@ -13,7 +13,7 @@ After installing the plugin, an administrator has to run the Julia installation 
 
 After the installation, it will be possible to create and execute Julia recipes the same way you would use any other code recipes. Jupyter notebooks will also be available in Julia.
 
-Inside recipes and notebooks, use the package [Dataiku.jl](https://github.com/dataiku/Dataiku.jl) to interact with DSS. This package is a wrapper around the [DSS Public API](https://doc.dataiku.com/dss/api/7.0/rest/) and provides functions to read and write datasets and folders in DSS easily. See the documentation on the package's [README.md](https://github.com/dataiku/Dataiku.jl/blob/master/README.md)
+Inside recipes and notebooks, use the package [Dataiku.jl](https://github.com/dataiku/Dataiku.jl) to interact with DSS. This package is a wrapper around the [DSS Public API](https://doc.dataiku.com/dss/latest/publicapi/rest.html) and provides functions to read and write datasets and folders in DSS easily. See the documentation on the package's [README.md](https://github.com/dataiku/Dataiku.jl/blob/master/README.md)
 
 ## Code environment
 
