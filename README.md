@@ -1,6 +1,6 @@
 # Julia plugin
 
-⚠️ Starting with DSS 15, this capabilities is not available anymore in DSS.
+⚠️ Starting with DSS 15, this capability is not available anymore in DSS.
 
 ## Summary
 
