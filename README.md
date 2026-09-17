@@ -1,5 +1,7 @@
 # Julia plugin
 
+⚠️ Starting with DSS 15, this capabilities is not available anymore in DSS.
+
 ## Summary
 
 This plugin adds [Julia](https://julialang.org/) support to DSS.
